@@ -175,6 +175,11 @@ function App() {
             <p>I can make original music in any style you need and create custom sound effects for your project.</p>
           </div>
         </div>
+        <address className="service-contact" aria-label="Contact Kalilov Akylbek">
+          <span>Get in touch</span>
+          <a href="tel:+996505484828">+996 505 484 828</a>
+          <a href="mailto:kalilovakylbek56@gmail.com">kalilovakylbek56@gmail.com</a>
+        </address>
       </section>
       <Gallery filter={filter} setFilter={setFilter} />
       <section className="about wrap" id="about" aria-labelledby="about-title">
