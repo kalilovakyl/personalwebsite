@@ -1,0 +1,310 @@
+[
+  {
+    "id": "studio-session",
+    "title": "Inside the arrangement",
+    "category": "music",
+    "description": "Watch the playhead move through a session as patterns and melodies come in.",
+    "alt": "Music production timeline with stacked clips and a green playhead",
+    "image": "studio-session.webp",
+    "width": 1920,
+    "height": 1080,
+    "video": "studio-session.mp4"
+  },
+  {
+    "id": "red-build",
+    "title": "Red-lit tower",
+    "category": "builds",
+    "description": "A look through the glass at a build with red lighting and a row of front fans.",
+    "alt": "Black glass-sided tower PC with red illuminated fans",
+    "image": "red-build.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "open-case",
+    "title": "Inside the case",
+    "category": "builds",
+    "description": "A closer view of the hardware with the side panel off.",
+    "alt": "Open black PC case showing the internal components and fans",
+    "image": "open-case.webp",
+    "width": 1170,
+    "height": 685
+  },
+  {
+    "id": "pattern-work",
+    "title": "Working with patterns",
+    "category": "music",
+    "description": "A longer session recording that shows how short patterns fit into the arrangement.",
+    "alt": "Music editing workspace displaying layered patterns in a timeline",
+    "image": "pattern-work.webp",
+    "width": 1280,
+    "height": 720,
+    "video": "pattern-work.mp4"
+  },
+  {
+    "id": "blue-build",
+    "title": "Blue-lit setup",
+    "category": "builds",
+    "description": "The finished tower in place beside the monitor, with the fans lit blue.",
+    "alt": "Desktop setup with a monitor and a blue-lit glass PC tower",
+    "image": "blue-build.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "parts-lineup",
+    "title": "Before assembly",
+    "category": "builds",
+    "description": "A Radeon graphics card, memory, and storage laid out on the desk.",
+    "alt": "ASUS Radeon RX 6600 graphics card with packaged memory and storage",
+    "image": "parts-lineup.webp",
+    "width": 1920,
+    "height": 1529
+  },
+  {
+    "id": "waveform-study",
+    "title": "Waveform study",
+    "category": "music",
+    "description": "A screen recording pairing an audio waveform with a sun visual.",
+    "alt": "Audio waveform above an orange sun graphic",
+    "image": "waveform-study.webp",
+    "width": 1920,
+    "height": 1080,
+    "video": "waveform-study.mp4"
+  },
+  {
+    "id": "gpu-detail",
+    "title": "Graphics card up close",
+    "category": "builds",
+    "description": "A view of the graphics card and lighting inside the case.",
+    "alt": "Close-up of a graphics card lit by purple LEDs inside a PC case",
+    "image": "gpu-detail.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "desk-setup",
+    "title": "At the desk",
+    "category": "builds",
+    "description": "The PC, display, and peripherals together in everyday use.",
+    "alt": "Desk with a monitor, keyboard, controller, and illuminated PC tower",
+    "image": "desk-setup.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "sampling-session",
+    "title": "Working with a sample",
+    "category": "music",
+    "description": "Screen recording of a sample waveform in the music production workspace.",
+    "alt": "Serato Sample panel showing a yellow audio waveform",
+    "image": "sampling-session.webp",
+    "width": 1920,
+    "height": 1080,
+    "video": "sampling-session.mp4"
+  },
+  {
+    "id": "march-16-audio",
+    "title": "March 16 audio playback",
+    "category": "music",
+    "description": "A phone screen recording of an audio playback.",
+    "alt": "Portrait phone screen showing an audio player and waveform",
+    "image": "march-16-audio.webp",
+    "width": 887,
+    "height": 1920,
+    "video": "march-16-audio.mp4"
+  },
+  {
+    "id": "march-17-midnight-audio",
+    "title": "March 17 midnight playback",
+    "category": "music",
+    "description": "An audio recording played back on a phone just after midnight.",
+    "alt": "Portrait audio player with a central white waveform",
+    "image": "march-17-midnight-audio.webp",
+    "width": 1018,
+    "height": 1920,
+    "video": "march-17-midnight-audio.mp4"
+  },
+  {
+    "id": "march-17-audio",
+    "title": "March 17 morning playback",
+    "category": "music",
+    "description": "A phone screen recording of an audio playback from March 17.",
+    "alt": "Phone audio player with a white waveform and playback controls",
+    "image": "march-17-audio.webp",
+    "width": 1119,
+    "height": 1920,
+    "video": "march-17-audio.mp4"
+  },
+  {
+    "id": "october-audio",
+    "title": "October 28 audio playback",
+    "category": "music",
+    "description": "A phone screen recording of an audio playback from October 28.",
+    "alt": "Portrait audio playback screen with a waveform and progress bar",
+    "image": "october-audio.webp",
+    "width": 1168,
+    "height": 1920,
+    "video": "october-audio.mp4"
+  },
+  {
+    "id": "colorful-keyboard",
+    "title": "Colorful keycaps",
+    "category": "builds",
+    "description": "Compact keyboard with multicolored keycaps on a dark desk mat.",
+    "alt": "Compact keyboard with multicolored keycaps on a dark desk mat",
+    "image": "colorful-keyboard.webp",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "id": "m86-keyboard",
+    "title": "M86 keyboard",
+    "category": "builds",
+    "description": "White and black compact keyboard in front of its box.",
+    "alt": "White and black compact keyboard in front of its box",
+    "image": "m86-keyboard.webp",
+    "width": 1170,
+    "height": 914
+  },
+  {
+    "id": "triple-fan-card",
+    "title": "Triple-fan graphics card",
+    "category": "builds",
+    "description": "Three-fan graphics card on a wooden desktop.",
+    "alt": "Three-fan graphics card on a wooden desktop",
+    "image": "triple-fan-card.webp",
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "id": "cool-white-tower",
+    "title": "Cool white lighting",
+    "category": "builds",
+    "description": "Black PC tower with cool white fan lighting.",
+    "alt": "Black PC tower with cool white fan lighting",
+    "image": "cool-white-tower.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "liquid-cooler",
+    "title": "Liquid cooler",
+    "category": "builds",
+    "description": "240 mm liquid cooler in its open box.",
+    "alt": "240 mm liquid cooler in its open box",
+    "image": "liquid-cooler.webp",
+    "width": 1280,
+    "height": 1044
+  },
+  {
+    "id": "power-supply",
+    "title": "Power supply and cables",
+    "category": "builds",
+    "description": "Corsair power supply and cables laid out with their packaging.",
+    "alt": "Corsair power supply and cables laid out with their packaging",
+    "image": "power-supply.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "graphics-card-box",
+    "title": "Graphics card in its box",
+    "category": "builds",
+    "description": "Three-fan graphics card resting in protective foam.",
+    "alt": "Three-fan graphics card resting in protective foam",
+    "image": "graphics-card-box.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "red-desk",
+    "title": "Red-lit desk setup",
+    "category": "builds",
+    "description": "Monitor and glass PC tower with bright red fans.",
+    "alt": "Monitor and glass PC tower with bright red fans",
+    "image": "red-desk.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "compact-case",
+    "title": "Compact black case",
+    "category": "builds",
+    "description": "Small black PC case on a dark table with warm backlighting.",
+    "alt": "Small black PC case on a dark table with warm backlighting",
+    "image": "compact-case.webp",
+    "width": 1920,
+    "height": 1639
+  },
+  {
+    "id": "warm-desk",
+    "title": "Desk setup in warm tones",
+    "category": "builds",
+    "description": "Red desktop wallpaper beside a black PC and a white keyboard.",
+    "alt": "Red desktop wallpaper beside a black PC and a white keyboard",
+    "image": "warm-desk.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "glass-case",
+    "title": "Glass-sided case",
+    "category": "builds",
+    "description": "Black glass-sided PC case on a desk beside a window.",
+    "alt": "Black glass-sided PC case on a desk beside a window",
+    "image": "glass-case.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "desktop-display",
+    "title": "Desktop display and tower",
+    "category": "builds",
+    "description": "Monitor with a colorful wallpaper next to a black desktop tower.",
+    "alt": "Monitor with a colorful wallpaper next to a black desktop tower",
+    "image": "desktop-display.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "yellow-keycaps",
+    "title": "Keyboard with yellow accents",
+    "category": "builds",
+    "description": "Dark mechanical keyboard with yellow accent keycaps.",
+    "alt": "Dark mechanical keyboard with yellow accent keycaps",
+    "image": "yellow-keycaps.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "msi-graphics-card",
+    "title": "MSI graphics card",
+    "category": "builds",
+    "description": "Dual-fan MSI graphics card displayed on its box.",
+    "alt": "Dual-fan MSI graphics card displayed on its box",
+    "image": "msi-graphics-card.webp",
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "id": "purple-tower",
+    "title": "Purple-lit tower",
+    "category": "builds",
+    "description": "Glass PC tower with purple and blue illuminated fans.",
+    "alt": "Glass PC tower with purple and blue illuminated fans",
+    "image": "purple-tower.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": "purple-desk",
+    "title": "Purple-lit desk setup",
+    "category": "builds",
+    "description": "Monitor, keyboard, game controller, and PC with purple fan lighting.",
+    "alt": "Monitor, keyboard, game controller, and PC with purple fan lighting",
+    "image": "purple-desk.webp",
+    "width": 1920,
+    "height": 1333
+  }
+]
